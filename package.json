@@ -3,8 +3,8 @@
   "version": "0.2.0",
   "description": "A toast for IONIC framework",
   "main": [
-    "./dist/ionic-toast.js",
-    "./dist/style.css"
+    "./src/ionic-toast.js",
+    "./src/style.css"
   ],
   "scripts": {},
   "author": "https://github.com/rajeshwarpatlolla, rajeshwar.patlolla@gmail.com",
