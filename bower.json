@@ -6,8 +6,8 @@
   ],
   "description": "'ionic-toast' bower component for ionic framework applications",
   "main": [
-    "./dist/ionic-toast.js",
-    "./dist/style.css"
+    "./src/ionic-toast.js",
+    "./src/style.css"
   ],
   "keywords": [
     "ionic-toast",
